@@ -2,13 +2,14 @@
 
 ## About this Project
 
-This template was created by the Research and Development division of Multimedia and Internet of Things (M-IOT) for those interested in learning the basics of web development. Feel free to fork this repository and modify it as needed. The template is built using CodeIgniter 4, a PHP full-stack web framework that is lightweight, fast, flexible, and secure.  
+This template was created by the Research and Development division of Multimedia and Internet of Things (M-IOT) Laboratory for those interested in learning the basics of web development. Feel free to fork this repository and modify it as needed. The template is built using CodeIgniter 4, a PHP full-stack web framework that is lightweight, fast, flexible, and secure.  
 More information can be found on the [official CodeIgniter site](https://codeigniter.com).
 
 You can also refer to the [user guide](https://codeigniter.com/user_guide/) for the latest version of the framework.
 
 ## Setup
 
+copy this project to `xampp\htdocs\` folder.
 To run the project, use the following command in your terminal:
 
 ```php
